@@ -1,6 +1,8 @@
 # GDR-Studio-TZ
 Тестовое задание для GDR Studio
 
+Видео геймплея - https://youtube.com/shorts/iNMhpvzP8zY
+
 На поле находится N монет;
 
 На поле находится N шипов;
